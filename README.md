@@ -32,13 +32,16 @@
 <h3 align="left">〄 Notes on Existence</h3>
 <p>
   🌱 3rd-year Computer Science student.<br>
-  💬 Interested in systems, code, and questions that don't have immediate answers.<br>
-  🔐 Interested in understanding how things work beneath the surface.<br>
   ⚓ Maps are useful. The interesting parts are usually off them.<br>
   🔭 Not particularly interested in following predefined paths.<br>
   📡 Occasionally found beyond the intended use case.<br>
   ⚡ Passionate about automation and clean solutions.<br>
   🧭 Following curiosity more often than instructions.<br> 
+          <br>
+  💬 Interested in systems, code, and questions - <br>
+   ⮩ that don't have immediate answers.<br>
+   🔐 Interested in understanding how things work - <br>
+   ⮩ beneath the surface.<br>
           <br>
     ◈ The rest is still under investigation.
 </p>
@@ -50,11 +53,14 @@
 <!-- Social Media Handles Block -->
 <h3 align="left" style="font-family: 'Courier New', Courier, monospace; font-weight: bold; text-transform: uppercase; letter-spacing: 2px;">⌘ Coordinates:</h3>
 <div align="left">
-  <a href="mailto:yoursoumendra@gmail.com"><img height="40px" src="https://img.shields.io/badge/Gmail-bf616a?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/soumendra-sethy" target="_blank"><img height="40px" src="https://img.shields.io/badge/LinkedIn-5e81ac?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/sethy_soumendra" target="_blank"><img height="40px" src="https://img.shields.io/badge/X-21262d?style=flat&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/yoursomu__" target="_blank"><img height="40px" src="https://img.shields.io/badge/Instagram-bf616a?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.gg/yoursoumendra_" target="_blank"><img height="40px" src="https://img.shields.io/badge/Discord-5e81ac?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:yoursoumendra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/soumendra-sethy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/sethy_soumendra" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/yoursomu__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.gg/yoursoumendra_" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://stackoverflow.com/users/28815944/soumendra-sethy" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://codepen.io/yoursoumendra" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" alt="Codepen" /></a>
+  <a href="https://www.quora.com/profile/SOUMENDRA-SETHY-2" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora" /></a>
 </div> 
 
 <br>
